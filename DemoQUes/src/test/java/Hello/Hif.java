@@ -12,6 +12,7 @@ public class Hif {
 		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver =new ChromeDriver();
+		String s="yehhuh";
 		
 		
 	}
